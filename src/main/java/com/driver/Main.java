@@ -17,6 +17,6 @@ public class Main {
     Product p = new Product();
     p.product(4, 8);
     p.product(5, 10, 15);
-    p.product(2L, 4L);
+    p.product(2.5, 4.5);
   }
 }
